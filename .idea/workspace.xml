@@ -20,7 +20,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b38f97ab-44f7-43f2-be27-6b4f802684b3" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/WebappApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/web/domain/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/web/domain/Disciplina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/web/domain/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/web/domain/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/web/domain/Quarentena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/web/domain/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/web/repository/DisciplinaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/web/repository/QuarentenaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/web/rest/DisciplinaRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/web/rest/QuarentenaRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/web/service/DisciplinaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/web/service/QuarentenaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/web/service/dto/DisciplinaBuscaAnoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/web/service/dto/DisciplinaNomeProfessorDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/web/service/dto/ProdutoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/unipe/tcc/dev/web/service/dto/QuarentenaNomeCidadeDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/docker/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.rdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro-spring-boot-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/intro-spring-boot-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devmedia/SpotmusicApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devmedia/config/ConfiguracaoSpringMvc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devmedia/controller/MusicaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devmedia/controller/PlaylistController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devmedia/dao/MusicaDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devmedia/dao/MusicaDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devmedia/dao/PlaylistDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devmedia/dao/PlaylistDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devmedia/domain/Musica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devmedia/domain/Playlist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devmedia/service/MusicaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devmedia/service/MusicaServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devmedia/service/PlaylistService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devmedia/service/PlaylistServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/musica/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/musica/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/playlist/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/playlist/list.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,21 +81,19 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>br</find>
-      <find>&lt;br</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dHRSvudzAjlaYckw2CfBipPJuV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
@@ -68,19 +112,26 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\DevMedia\Cursos\Aplicacao web com Spring Boot\Projeto\intro-spring-boot-web\src\main\resources" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ambiente\sistemas\academico\tcc-spring-boot\src\main\resources\liquibase" />
+      <recent name="D:\ambiente\sistemas\academico\tcc-spring-boot\src\main\resources" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="br.com.devmedia.domain" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ambiente\sistemas\academico\tcc-spring-boot" />
+      <recent name="D:\ambiente\sistemas\academico\tcc-spring-boot\src\main\resources" />
+      <recent name="D:\ambiente\sistemas\academico\tcc-spring-boot\src\main\java\br\edu\unipe\tcc\dev\web\domain" />
+      <recent name="C:\DevMedia\Cursos\Aplicacao web com Spring Boot\Projeto\intro-spring-boot-web\src\main\resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpotmusicApplication">
+  <component name="RunManager" selected="Spring Boot.WebappApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -122,6 +173,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebappApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="intro-spring-boot-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.edu.unipe.tcc.dev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.edu.unipe.tcc.dev.WebappApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -142,6 +206,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.WebappApplication" />
         <item itemvalue="Application.SpotmusicApplication" />
       </list>
     </recent_temporary>
@@ -162,6 +227,7 @@
       <workItem from="1592096221185" duration="558000" />
       <workItem from="1592096910260" duration="862000" />
       <workItem from="1593990258679" duration="3086000" />
+      <workItem from="1593994153748" duration="10465000" />
     </task>
     <servers />
   </component>
@@ -178,51 +244,101 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="163" y="0" key="#Project_Structure" timestamp="1592094978234">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="859" y="416" width="464" height="217" key="#Assign_Data_Sources" timestamp="1593998510324">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="859" y="416" width="464" height="217" key="#Assign_Data_Sources/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1593998510324" />
+    <state x="229" y="0" key="#Project_Structure" timestamp="1594003027995">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="229" y="0" key="#Project_Structure/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594003027995" />
     <state x="163" y="0" key="#Project_Structure/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1592094978234" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1592094874426">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="708" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594003078080">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="708" y="327" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594003078080" />
+    <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1594000658501">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594000658501" />
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593999036609">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1593999036609" />
+    <state x="651" y="172" key="FileChooserDialogImpl" timestamp="1594003036263">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="651" y="172" key="FileChooserDialogImpl/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594003036263" />
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1592094874426" />
-    <state width="1323" height="168" key="GridCell.Tab.0.bottom" timestamp="1592098940675">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="424" key="GridCell.Tab.0.bottom" timestamp="1594004567498">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="424" key="GridCell.Tab.0.bottom/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594004567498" />
     <state width="1323" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1592098940675" />
-    <state width="1323" height="168" key="GridCell.Tab.0.center" timestamp="1592098940675">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="424" key="GridCell.Tab.0.center" timestamp="1594004567498">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="424" key="GridCell.Tab.0.center/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594004567498" />
     <state width="1323" height="168" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1592098940675" />
-    <state width="1323" height="168" key="GridCell.Tab.0.left" timestamp="1592098940675">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="424" key="GridCell.Tab.0.left" timestamp="1594004567498">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="424" key="GridCell.Tab.0.left/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594004567498" />
     <state width="1323" height="168" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1592098940675" />
-    <state width="1323" height="168" key="GridCell.Tab.0.right" timestamp="1592098940675">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="424" key="GridCell.Tab.0.right" timestamp="1594004567498">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="424" key="GridCell.Tab.0.right/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594004567498" />
     <state width="1323" height="168" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1592098940675" />
-    <state width="1323" height="168" key="GridCell.Tab.1.bottom" timestamp="1592098940675">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="424" key="GridCell.Tab.1.bottom" timestamp="1594004567499">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="424" key="GridCell.Tab.1.bottom/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594004567499" />
     <state width="1323" height="168" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1592098940675" />
-    <state width="1323" height="168" key="GridCell.Tab.1.center" timestamp="1592098940675">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="424" key="GridCell.Tab.1.center" timestamp="1594004567499">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="424" key="GridCell.Tab.1.center/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594004567499" />
     <state width="1323" height="168" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1592098940675" />
-    <state width="1323" height="168" key="GridCell.Tab.1.left" timestamp="1592098940675">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="424" key="GridCell.Tab.1.left" timestamp="1594004567498">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="424" key="GridCell.Tab.1.left/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594004567498" />
     <state width="1323" height="168" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1592098940675" />
-    <state width="1323" height="168" key="GridCell.Tab.1.right" timestamp="1592098940675">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="424" key="GridCell.Tab.1.right" timestamp="1594004567499">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="424" key="GridCell.Tab.1.right/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594004567499" />
     <state width="1323" height="168" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1592098940675" />
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom" timestamp="1594002319485">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594002319485" />
+    <state width="1877" height="352" key="GridCell.Tab.2.center" timestamp="1594002319485">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.center/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594002319485" />
+    <state width="1877" height="352" key="GridCell.Tab.2.left" timestamp="1594002319485">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.left/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594002319485" />
+    <state width="1877" height="352" key="GridCell.Tab.2.right" timestamp="1594002319485">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.right/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594002319485" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1592093950959">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1592093950959" />
+    <state x="667" y="124" width="585" height="801" key="find.popup" timestamp="1594001638720">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="667" y="124" width="585" height="801" key="find.popup/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594001638720" />
   </component>
 </project>
